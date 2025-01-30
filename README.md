@@ -13,7 +13,7 @@ This application provides a simple autocomplete feature using a React frontend a
     ```bash
     source venv/bin/activate
     ```
-    (or `venv\Scripts\activate` on Windows)
+    (or `venv/Scripts/activate` on Windows)
 4.  Install dependencies:
     ```bash
     pip install -r requirements.txt
